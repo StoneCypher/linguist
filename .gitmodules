@@ -869,3 +869,6 @@
 [submodule "vendor/grammars/sublime-nearley"]
 	path = vendor/grammars/sublime-nearley
 	url = https://github.com/Hardmath123/sublime-nearley
+[submodule "vendor/grammars/sublime-jssm"]
+	path = vendor/grammars/sublime-jssm
+	url = https://github.com/StoneCypher/sublime-jssm

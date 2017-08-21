@@ -642,6 +642,8 @@ vendor/grammars/sublime-glsl:
 - source.glsl
 vendor/grammars/sublime-golo:
 - source.golo
+vendor/grammars/sublime-jssm:
+- source.jssm
 vendor/grammars/sublime-mask:
 - source.mask
 vendor/grammars/sublime-nearley:

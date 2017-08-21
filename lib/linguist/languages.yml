@@ -1486,8 +1486,8 @@ Gerber Image:
   - ".gtp"
   - ".gts"
   interpreters:
-  - "gerbv"
-  - "gerbview"
+  - gerbv
+  - gerbview
   tm_scope: source.gerber
   ace_mode: text
   language_id: 404627610
@@ -2115,6 +2115,14 @@ Jolie:
   ace_mode: text
   tm_scope: source.jolie
   language_id: 998078858
+JSSM:
+  type: programming
+  group: JavaScript
+  extensions:
+  - ".jssm"
+  color: "#70753c"
+  tm_scope: source.jssm
+  language_id: 389750112
 Julia:
   type: programming
   extensions:
